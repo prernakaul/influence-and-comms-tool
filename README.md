@@ -1,6 +1,6 @@
-# Influence and Comms Tool
+# Influence and Communication AI Agent
 
-This repo contains the main prompt and supporting resources for my Claude project, "Influence and Comms Tool".
+This repo contains the main prompt and supporting resources for my Claude project, "Influence and Communication Tool".
 
 ## Contents
 
