@@ -1,0 +1,13 @@
+# Influence and Comms Tool
+
+This repo contains the main prompt and supporting resources for my Claude project, "Influence and Comms Tool".
+
+## Contents
+
+- `prompt.md` – core Claude prompt
+- `resources/` – extra docs, examples, and reference material
+
+## How to use
+
+1. Copy `prompt.md` into your Claude project as the system / main prompt.
+2. Use files in `resources/` as context or reference material when working with Claude.
